@@ -44,8 +44,8 @@ Due to intellectual property and security reasons, the source code is not publis
 ---
 
 **Development Info**
-* **Team:** Alex Solo Founder Team
-* **Timeline:** 32 Days : (16dec 2025 - 18jan 2026)---->(MVP Ready)
+* **Team:** Alex (Solo Founder)
+* **Timeline:** 32 Days : (16dec 2025 - 18jan 2026)→**MVP Ready**
 
 ### 📂 Demo & Screenshots
 
