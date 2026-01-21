@@ -40,5 +40,11 @@ Due to intellectual property and security reasons, the source code is not publis
 
 You can view interface examples and analysis results in the [demo](./demo) directory.
 
+### ☕ Break Room
+Engineering is hard. Investing is stressful.
+Check out the **[Memes & Culture](status/memes)** folder to recharge.
+
+*"We take our code seriously, but never ourselves."*
+
 
 *© 2026 Verum. All Rights Reserved.*
