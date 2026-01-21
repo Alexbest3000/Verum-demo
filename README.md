@@ -16,13 +16,13 @@ Due to intellectual property and security reasons, the source code is not publis
 
 ### 🔗 Product
 
-**Live MVP:** [https://verum.live/]
-
 > **⚠️ DEMO ENVIRONMENT NOTICE**
 > Verum runs on a constrained infrastructure (Railway Hobby Tier).
 > **Deep Multi-Modal Analysis takes 30-60 seconds.**
 > Please be patient. If the screen appears static, the system is calculating, not frozen.
 
+
+**Live MVP:** [https://verum.live/]
 
 
 ---
@@ -44,8 +44,8 @@ Due to intellectual property and security reasons, the source code is not publis
 ---
 
 **Development Info**
-* **Team:** Solo Founder
-* **Timeline:** 30 Days (MVP)
+* **Team:** Alex Solo Founder Team
+* **Timeline:** 32 Days : (16dec 2025 - 18jan 2026)---->(MVP Ready)
 
 ### 📂 Demo & Screenshots
 
