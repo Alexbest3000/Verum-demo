@@ -14,6 +14,12 @@ Due to intellectual property and security reasons, the source code is not publis
 
 **Live MVP:** [https://verum.live/]
 
+**⚠️ DEMO ENVIRONMENT NOTICE**
+Verum runs on a constrained infrastructure (Railway Hobby Tier).
+**Deep Multi-Modal Analysis takes 30-60 seconds.**
+Please be patient. If the screen appears static, the system is calculating, not frozen.
+
+
 ---
 
 ### 🛠 Tech Stack
