@@ -3,6 +3,8 @@
 Verum is an AI-powered OSINT and behavioral analysis platform.
 The system detects deception patterns in visual/text content using computer vision (ELA) and LLM orchestration.
 
+Verum: The Brutally Honest 
+
 ### ⚠️ Source Code Status
 
 **Closed Source / Proprietary**
