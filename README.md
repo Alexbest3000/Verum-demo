@@ -42,7 +42,7 @@ You can view interface examples and analysis results in the [demo](./demo) direc
 
 ### ☕ Break Room
 Engineering is hard. Investing is stressful.
-Check out the **[Memes & Culture](status/memes)** folder to recharge.
+Check out the **(/demo/screenshots/status/memes)** folder to recharge.
 
 *"We take our code seriously, but never ourselves."*
 
