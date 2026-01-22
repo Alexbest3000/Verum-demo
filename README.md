@@ -4,7 +4,8 @@
 
 **The Brutally Honest AI**
 
-Verum is an AI-powered OSINT and behavioral analysis platform.
+Verum is an AI-powered OSINT Socio-Economic Anti-Virus
+and behavioral analysis platform.
 The system detects deception patterns in visual/text content using computer vision (ELA) and LLM orchestration.
 
 ### ⚠️ Source Code Status
