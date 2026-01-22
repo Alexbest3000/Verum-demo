@@ -1,6 +1,7 @@
 # Verum
 
 **Social-Economic Anti-Virus**
+
 **The Brutally Honest AI**
 
 Verum is an AI-powered OSINT and behavioral analysis platform.
