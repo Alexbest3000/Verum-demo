@@ -12,9 +12,9 @@ Verum protects users from deception across three critical layers:
 
     Visual: Deepfake and AI-generation detection using Logic and Computer Vision (ELA).
 
-    Semantic: Real-time "Bullshit Detection" in text—identifying hidden risks, logical traps, and corporate gaslighting (LLM Orchestration).
+    Semantic: Real-time "Bullshit Detection" in text—identifying hidden risks, logical traps, and corporate gaslighting.
 
-    Behavioral: A psychological profiler that reads between the lines to reveal hidden human intentions and manipulation patterns.
+    Behavioral: A psychological profiler that reads between the lines to reveal hidden human intentions and manipulation.
 
 ### ⚠️ Source Code Status
 
