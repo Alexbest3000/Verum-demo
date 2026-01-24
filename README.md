@@ -4,9 +4,12 @@
 
 **The Brutally Honest AI**
 
-Verum is an AI-powered OSINT Socio-Economic Anti-Virus
+Verum is an AI-powered OSINT Socio-Economic-Cognitive Anti-Virus
 and behavioral analysis platform.
+
 The system detects deception patterns in visual/text content using computer vision (ELA) and LLM orchestration.
+Is a cognitive security ecosystem. We have combined deepfake detection, semantic risk analysis, and a psychological profiler into a single app. 
+It is a "Firewall for the Mind" that protects the user from deception across image, text, and human behavior.
 
 ### ⚠️ Source Code Status
 
