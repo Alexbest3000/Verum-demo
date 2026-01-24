@@ -6,11 +6,11 @@
 
 Verum is a multi-modal cognitive security ecosystem designed for the post-truth era. We’ve merged Visual Forensics, Semantic Audit, and Behavioral Profiling into a single "Firewall for the Mind."
 
-### **🛡️ What it does**
+**🛡️ What it does**
 
 Verum protects users from deception across three critical layers:
 
-    Visual: Deepfake and AI-generation detection using Computer Vision (ELA).
+    Visual: Deepfake and AI-generation detection using Logic and Computer Vision (ELA).
 
     Semantic: Real-time "Bullshit Detection" in text—identifying hidden risks, logical traps, and corporate gaslighting (LLM Orchestration).
 
