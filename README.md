@@ -4,12 +4,17 @@
 
 **The Brutally Honest AI**
 
-Verum is an AI-powered OSINT Socio-Economic-Cognitive Anti-Virus
-and behavioral analysis platform.
+Verum is a multi-modal cognitive security ecosystem designed for the post-truth era. We’ve merged Visual Forensics, Semantic Audit, and Behavioral Profiling into a single "Firewall for the Mind."
 
-The system detects deception patterns in visual/text content using computer vision (ELA) and LLM orchestration.
-Is a cognitive security ecosystem. We have combined deepfake detection, semantic risk analysis, and a psychological profiler into a single app. 
-It is a "Firewall for the Mind" that protects the user from deception across image, text, and human behavior.
+### **🛡️ What it does**
+
+Verum protects users from deception across three critical layers:
+
+    Visual: Deepfake and AI-generation detection using Computer Vision (ELA).
+
+    Semantic: Real-time "Bullshit Detection" in text—identifying hidden risks, logical traps, and corporate gaslighting (LLM Orchestration).
+
+    Behavioral: A psychological profiler that reads between the lines to reveal hidden human intentions and manipulation patterns.
 
 ### ⚠️ Source Code Status
 
