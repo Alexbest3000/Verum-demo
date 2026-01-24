@@ -1,6 +1,6 @@
 # Verum
 
-**Socio-Economic Anti-Virus**
+**Socio-Economic-Cognitive Anti-Virus**
 
 **The Brutally Honest AI**
 
