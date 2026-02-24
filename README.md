@@ -31,7 +31,8 @@ Due to intellectual property and security reasons, the source code is not publis
 > Please be patient. If the screen appears static, the system is calculating, not frozen.
 
 
-**Live MVP:** [https://verum.live/]
+**Live MVP:** [https://verum.live/] 
+**Working at the Sandbox at the moment:** [https://new-payment-logic-test.verum-app.pages.dev]
 
 
 ---
